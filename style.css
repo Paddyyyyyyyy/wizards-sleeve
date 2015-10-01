@@ -1,0 +1,36 @@
+#wrapper{
+	width:960px;
+	height:700px;
+	background:#333;
+	margin:0 auto;
+}
+#header{
+	width:100%;
+	height:15%;
+	background:black;
+}
+#main{
+	width:100%;
+	height:75%;
+	background:red;
+	
+}
+#sidel{
+	width:20%;
+	height:75%;
+	background:grey;
+	float:left;
+	
+}
+#sider{
+	width:20%;
+	height:75%;
+	background:grey;
+	float:right;
+}
+#footer{
+	width:100%;
+	height:10%;
+	background:green;
+	
+}
